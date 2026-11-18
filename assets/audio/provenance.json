@@ -1,0 +1,63 @@
+[
+  {
+    "file": "appear.wav",
+    "source": "https://github.com/visolleon/bnb/blob/gh-pages/Snd/appear.wav",
+    "gitBlobSha": "0d8a779d02483bcc5f70d71ba4657c22c8f77d3b"
+  },
+  {
+    "file": "die.wav",
+    "source": "https://github.com/visolleon/bnb/blob/gh-pages/Snd/die.wav",
+    "gitBlobSha": "429c5d476254bbddc2bf2fde87d1c43599515305"
+  },
+  {
+    "file": "draw.wav",
+    "source": "https://github.com/visolleon/bnb/blob/gh-pages/Snd/draw.wav",
+    "gitBlobSha": "a1a9e406ef8fa3daa1954a14a800052193ffab82"
+  },
+  {
+    "file": "explode.wav",
+    "source": "https://github.com/visolleon/bnb/blob/gh-pages/Snd/explode.wav",
+    "gitBlobSha": "1c0d22bfc5b748b67dd436f7cc9d4b10ec51fafb"
+  },
+  {
+    "file": "get.wav",
+    "source": "https://github.com/visolleon/bnb/blob/gh-pages/Snd/get.wav",
+    "gitBlobSha": "f0ea11f2c3ddaeab545fb90358cbec3f97c90417"
+  },
+  {
+    "file": "lay.wav",
+    "source": "https://github.com/visolleon/bnb/blob/gh-pages/Snd/lay.wav",
+    "gitBlobSha": "11c372d5edb5c8753313f62a00913bce80542c24"
+  },
+  {
+    "file": "save.wav",
+    "source": "https://github.com/visolleon/bnb/blob/gh-pages/Snd/save.wav",
+    "gitBlobSha": "175bb3932daa809cb6f0f274a7b4f8d0037ecd79"
+  },
+  {
+    "file": "start.wav",
+    "source": "https://github.com/visolleon/bnb/blob/gh-pages/Snd/start.wav",
+    "gitBlobSha": "2772536d165aa16b586e6f5198f0a1f3ee06854f"
+  },
+  {
+    "file": "win.wav",
+    "source": "https://github.com/visolleon/bnb/blob/gh-pages/Snd/win.wav",
+    "gitBlobSha": "45aae6a72b812c78b15fd4308a8898970aa1a079"
+  },
+  {
+    "file": "lose.wav",
+    "source": "https://github.com/NPpj/CrazyArcade/blob/master/GameClient/src/assets/sound/lose.wav",
+    "gitBlobSha": "baf4cb50941559c35e86219a9a82525de25de870"
+  },
+  {
+    "file": "click.wav",
+    "source": "https://github.com/NPpj/CrazyArcade/blob/master/GameClient/src/assets/sound/click.wav",
+    "gitBlobSha": "d5b799965845e1dc110434fe35c621860c93bec0"
+  },
+  {
+    "file": "bg.wav",
+    "source": "https://github.com/visolleon/bnb/blob/gh-pages/Snd/bg.wav",
+    "gitBlobSha": "94db89a8468a576c8cffb2bbf264c66493eed97c",
+    "download": "Chrome Download raw file"
+  }
+]

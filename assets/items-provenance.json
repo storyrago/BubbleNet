@@ -1,0 +1,44 @@
+[
+  {
+    "file": "original/Gift1.png",
+    "source": "https://github.com/visolleon/bnb/blob/gh-pages/Pic/Gift1.png",
+    "gitBlobSha": "5186400afa1f4ce90a7c3c4c1eaa58726b1414fc",
+    "frame": {
+      "width": 42,
+      "height": 45,
+      "count": 3
+    }
+  },
+  {
+    "file": "original/Gift2.png",
+    "source": "https://github.com/visolleon/bnb/blob/gh-pages/Pic/Gift2.png",
+    "gitBlobSha": "488c03f35be30c57a92159ded50ed7622a869bdd",
+    "frame": {
+      "width": 42,
+      "height": 45,
+      "count": 3
+    }
+  },
+  {
+    "file": "original/Gift3.png",
+    "source": "https://github.com/visolleon/bnb/blob/gh-pages/Pic/Gift3.png",
+    "gitBlobSha": "ea595235616fbc89b9691c2779ad86a9a2252ac1",
+    "frame": {
+      "width": 42,
+      "height": 45,
+      "count": 3
+    }
+  },
+  {
+    "file": "original/ItemAtlas.png",
+    "source": "https://github.com/tpoisonooo/BnB/blob/master/images/%E5%90%AB%E6%9C%89%E9%83%A8%E5%88%86%E9%81%93%E5%85%B7-%E7%BD%90%E5%A4%B4%E3%80%81%E9%92%88%E3%80%81%E7%9B%BE%E3%80%81%E6%89%B3%E6%89%8B%E3%80%81%E5%BC%B9%E7%B0%A7%E3%80%81%E9%9B%B7%E8%BE%BE%E3%80%81%E9%A3%9E%E9%95%96%E3%80%81%E5%A4%8D%E6%B4%BB.png",
+    "gitBlobSha": "aa65a557be19b10d9b67a8132841db4bc0d2e415",
+    "crop": {
+      "x": 171,
+      "y": 150,
+      "width": 26,
+      "height": 25
+    },
+    "note": "Needle inventory icon; gray backing retained; rejected mislabeled pre-crop not used"
+  }
+]

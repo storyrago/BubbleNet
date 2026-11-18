@@ -1,0 +1,7 @@
+{
+  "file": "original/GameBackGround.png",
+  "source": "https://github.com/NPpj/CrazyArcade/blob/master/GameClient/src/assets/game/GameBackGround.png",
+  "git_blob_sha": "9f896604970440c948817ba2fda5b1bd50d9a93a",
+  "usage": "Full image scaled to 800x600; local HUD drawn over it.",
+  "rights": "Original Crazy Arcade artwork belongs to its rights holders. Public repository availability does not grant redistribution permission."
+}
